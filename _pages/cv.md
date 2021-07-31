@@ -16,13 +16,11 @@ Education
 
 Work experience
 ======
-* Mar 2018 - Aug 2018: Technical Executive
-  * Unique Identification Authority of India, New Delhi
+* Mar 2018 - Aug 2018: *Technical Executive @ Unique Identification Authority of India, New Delhi
   * Duties included: Management of projects regarding deployment of face recognition, specs of biometric devices.
 
 
-* July 2016 - Mar 2018: Project Engineer
-  * Wipro Digital
+* July 2016 - Mar 2018: *Project Engineer @ Wipro Digital
   * Analysis of client's data, feature modelling, developing shell and hive scripts to automate dataflow from Amazon s3 and developing ML models.
   * Team : Wipro Holmes Platform Team
 
