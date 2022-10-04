@@ -8,7 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am Masters student at Dept. of Computer Science Automation(CSA), Indian Institute of Science, Bangalore. 
-I am currently working in Stochastic Systems Lab under Prof Shalabh Bhatnagar. My research interests are Safe Reinforcement Learning, Neural 
-Architecture Search and Natural Language Processing.
+Currently I am working at Flipkart as Data Scientist II in Search Ranking Team where I am applying. I have done my Masters from Dept. of Computer Science Automation(CSA), Indian Institute of Science, Bangalore. My area of interests interests are Multi-armed Bandits, Explainable ML, Safe Reinforcement Learning, AutoML and Natural Language Processing.
 
