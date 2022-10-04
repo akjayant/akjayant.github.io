@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* **Data Scientist-2 @ Flipkart, Bangalore** (Mar 2018 - July 2018)
+* **Data Scientist-2 @ Flipkart, Bangalore** (Jul 2022 - Present)
   * Building Search Ranking
   
 * **Technical Executive @ Unique Identification Authority of India, New Delhi** (Mar 2018 - July 2018)
