@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi :) Welcome to my personal webpage which I plan to use for collating my projects, publications and host my tech blogs at one place!
+Hi :) Welcome to my personal webpage which I plan to use for collating my projects list, publications and host my ML/RL technical blogs at one place!
 Currently I am working at Flipkart as Data Scientist II in Search Ranking Team where I am learning to apply skills learned in masters at scale for ranking products for ~100 Million monthly active users at app. I have done my Masters from Dept. of Computer Science Automation(CSA), Indian Institute of Science, Bangalore. My area of interests interests are Multi-armed Bandits, Explainable ML, Safe Reinforcement Learning, AutoML and Natural Language Processing. In spare time I love to read non-fiction books, watch documentaries and play music. I am also part of a band names Echoes as Rhythm Guitarist, See them [here](https://www.instagram.com/echoestheband/) :)
 
 ##### For research collaborations in my areas of interest, feel free to drop mail : ashish "dot" jayant94 "at" gmail "dot" com
